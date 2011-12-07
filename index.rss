@@ -2,6 +2,7 @@
 <title>Lucas Gameiro's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Dentist</title><description>Extracted patches using git log -p.</description></item>
 <item><title>Fisherman (Level 6)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Product Manager (Level 5)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Fisherman (Level 3)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Apprentice Fisherman (Level 2)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
-<item><title>Apprentice Cathedral Architect (Level 1)</title><description>Added a submodule to a repository.</description></item>
 </channel></rss>
