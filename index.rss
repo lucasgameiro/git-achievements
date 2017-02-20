@@ -2,6 +2,7 @@
 <title>Lucas Gameiro's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Collector (Level 7)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Presenter (Level 2)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Gipsy (Level 6)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Fisherman (Level 1)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
-<item><title>Apprentice Presenter (Level 1)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 </channel></rss>
